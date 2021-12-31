@@ -21,5 +21,5 @@
 
 [![Stergios' GitHub stats](https://github-readme-stats.vercel.app/api?username=stspapa95&hide_border=true&theme=dracula)](https://github.com/stspapa95/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stspapa95&show_icons=true)](https://github.com/stspapa95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stspapa95)](https://github.com/stspapa95/github-readme-stats)
 
